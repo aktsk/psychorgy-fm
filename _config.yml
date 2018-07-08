@@ -23,7 +23,7 @@ itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
 markdown: kramdown
-permalink: /episode/:title
+permalink: /episode/:title.html
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
