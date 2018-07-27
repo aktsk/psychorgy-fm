@@ -5,6 +5,9 @@ actors:
   ayabe:
     image_url: /images/actors/ayabe.png
     name: ayabe
+  akky:
+    image_url: /images/actors/akky.png
+    name: akky
 author: yunomae
 description: 湯前とカウンセラー綾部による、心理学(Psychology) x 組織(Organization)を語るPodcast
 description_long: 湯前とカウンセラー綾部が、アカツキの組織作りと心理学を関連付けながら、今起こっている問題について考えるPodcast
